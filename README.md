@@ -119,5 +119,5 @@ Commit frequente no GitHub registrando novas "cicatrizes" conforme você avança
 
 Meu perfil na DIO: Enzo Facundo
 
-[Repositório original deste desafio (coloque o link do seu repo)](https://github.com/EnzoFrancoFacundo/miniguia-ia-generativa/edit/main/README.md)
+Repositório(https://github.com/EnzoFrancoFacundo/miniguia-ia-generativa/edit/main/README.md)
 
